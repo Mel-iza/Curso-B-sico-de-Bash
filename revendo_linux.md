@@ -51,3 +51,19 @@ O bash, ou Bourne Again Shell é uma implementação aprimorada de comandos Bour
 Esses tipos de comandos são os comandos internos do bash.
 
 
+## 1.6 - O terminal como console interativo
+
+Muitas linguagens oferecem consoles interativos onde você pode testar e executar trechos do seu programa. <br>
+
+No nosso caso, o emulador de terminal também pode ser visto como o console interativo do bash/shell<br>
+
+> Para nós, é importante que ele seja visto dessa forma a partir de agora.
+
+## 1.7 - Como saber que tipo de shell estamos utilizando?
+
+Existem duas formas de descobrir: <br>
+<b>Método 1</b>: comando `echo $0` Essa variável mostra pra gente o que está sendo utilizado, o script que está sendo utilizado. Só funciona se estivermos no shell <br>
+<b>Método 2</b>: comando `echo $SHELL`
+
+
+
