@@ -1,4 +1,6 @@
-GNU bash, version 5.1.16(1)-release (x86_64-pc-linux-gnu)
+command: `help`
+```
+GNU bash, version 5.1.16(1)-release (x86_64-pc-linux-gnu) 
 These shell commands are defined internally.  Type `help' to see this list.
 Type `help name' to find out more about the function `name'.
 Use `info bash' to find out more about the shell in general.
@@ -44,3 +46,4 @@ A star (*) next to a name means that the command is disabled.
  getopts optstring name [arg ...]                       wait [-fn] [-p var] [id ...]
  hash [-lr] [-p pathname] [-dt] [name ...]              while COMMANDS; do COMMANDS; done
  help [-dms] [pattern ...]                              { COMMANDS ; }
+```
